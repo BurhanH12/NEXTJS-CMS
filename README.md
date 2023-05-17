@@ -1,2 +1,3 @@
-# CRAFTJS-NextJS-
 # NEXTJS-CMS
+
+Implementation of CraftJs
