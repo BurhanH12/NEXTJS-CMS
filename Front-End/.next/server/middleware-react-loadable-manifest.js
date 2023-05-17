@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"preview\\[id].jsx -> ../../../Preview/Index":{"id":"preview\\[id].jsx -> ../../../Preview/Index","files":["static/chunks/Preview_Index_jsx.js"]}}
